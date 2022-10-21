@@ -16,6 +16,7 @@ function TentarSomar()
 	media = (n1 + n2 + n3 + n4 + n5 + n6 + n7 + n8)/8;
 	// aaaaaaaaa
   console.log(media)
+  console.log(n1 + n2 + n3 + n4 + n5)
 //   alert("O resultado das somas é igual a : ");
   document.getElementById('resultado').value = soma_dos_numeros;
 	// alert("E a media é:" )
