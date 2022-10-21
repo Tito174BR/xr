@@ -1,0 +1,23 @@
+.background {
+	background-image: url('../images/Blood_gived.jpeg');
+   background-size: contain;
+	font-family: Arial, Helvetica, sans-serif,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Verdana, Geneva, Tahoma, sans-serif,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	color-interpolation-filters: sRGB;
+	
+}
+
+.button {
+	padding: 7px;
+	margin: 5;
+	border: none;
+	transition-delay: 150ms;
+	position: relative;
+	color: black;
+	background-color: aquamarine;
+	border-radius: 12px;
+	content: '';
+	cursor: pointer;
+	
+	box-sizing: border-box;
+
+}
